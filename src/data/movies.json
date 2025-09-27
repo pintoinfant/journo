@@ -1,0 +1,200 @@
+[
+  {
+    "movieId": "forrest-gump-1994",
+    "id": "1",
+    "name": "Forrest Gump",
+    "title": "Forrest Gump",
+    "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "duration": "142 min",
+    "revenue": 678200000,
+    "budget": 55000000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "genre": "Drama",
+    "poster": "/movies/forest_gump.jpg",
+    "rating": 8.8,
+    "journoRating": 8.8,
+    "avgRating": 8.8,
+    "totalRatings": 1234,
+    "weightedRatings": 987,
+    "unweightedRatings": 247,
+    "ens": "forrestgump.journo.eth",
+    "ensSubname": "forrestgump.journo.ens",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "awards": [
+      "Academy Award Best Actor",
+      "Academy Award Best Visual Effects",
+      "Academy Award Best Film Editing"
+    ],
+    "award": "Oscar Winner",
+    "netflixId": "tt0109830"
+  },
+  {
+    "movieId": "pulp-fiction-1994",
+    "id": "2",
+    "name": "Pulp Fiction",
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "duration": "154 min",
+    "revenue": 214200000,
+    "budget": 8000000,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "genre": "Crime Drama",
+    "poster": "/movies/pulp_fiction.jpg",
+    "rating": 8.9,
+    "journoRating": 8.9,
+    "avgRating": 8.9,
+    "totalRatings": 1547,
+    "weightedRatings": 1203,
+    "unweightedRatings": 344,
+    "ens": "pulpfiction.journo.eth",
+    "ensSubname": "pulpfiction.journo.ens",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "awards": [
+      "Palme d'Or",
+      "Academy Award Best Original Screenplay"
+    ],
+    "award": "Palme d'Or",
+    "netflixId": "tt0110912"
+  },
+  {
+    "movieId": "fight-club-1999",
+    "id": "3",
+    "name": "Fight Club",
+    "title": "Fight Club",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into an anarchist organization.",
+    "year": 1999,
+    "director": "David Fincher",
+    "runtime": 139,
+    "duration": "139 min",
+    "revenue": 101200000,
+    "budget": 63000000,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "genre": "Drama",
+    "poster": "/movies/fight_club.jpg",
+    "rating": 8.8,
+    "journoRating": 8.8,
+    "avgRating": 8.8,
+    "totalRatings": 1876,
+    "weightedRatings": 1421,
+    "unweightedRatings": 455,
+    "ens": "fightclub.journo.eth",
+    "ensSubname": "fightclub.journo.ens",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "awards": [
+      "Empire Award Best Film",
+      "MTV Movie Award Best Fight"
+    ],
+    "award": "Empire Award",
+    "netflixId": "tt0137523"
+  },
+  {
+    "movieId": "django-unchained-2012",
+    "id": "4",
+    "name": "Django Unchained",
+    "title": "Django Unchained",
+    "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+    "year": 2012,
+    "director": "Quentin Tarantino",
+    "runtime": 165,
+    "duration": "165 min",
+    "revenue": 425400000,
+    "budget": 100000000,
+    "genres": [
+      "Western",
+      "Drama",
+      "Action"
+    ],
+    "genre": "Western",
+    "poster": "/movies/django_unchained.jpg",
+    "rating": 8.4,
+    "journoRating": 8.4,
+    "avgRating": 8.4,
+    "totalRatings": 1654,
+    "weightedRatings": 1298,
+    "unweightedRatings": 356,
+    "ens": "django.journo.eth",
+    "ensSubname": "django.journo.ens",
+    "cast": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio",
+      "Kerry Washington"
+    ],
+    "awards": [
+      "Academy Award Best Supporting Actor",
+      "Academy Award Best Original Screenplay"
+    ],
+    "award": "Oscar Winner",
+    "netflixId": "tt1853728"
+  },
+  {
+    "movieId": "shawshank-redemption-1994",
+    "id": "5",
+    "name": "The Shawshank Redemption",
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "runtime": 142,
+    "duration": "142 min",
+    "revenue": 16300000,
+    "budget": 25000000,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "genre": "Drama",
+    "poster": "/movies/shawshank_redemption.jpg",
+    "rating": 9.3,
+    "journoRating": 9.3,
+    "avgRating": 9.3,
+    "totalRatings": 2341,
+    "weightedRatings": 1876,
+    "unweightedRatings": 465,
+    "ens": "shawshank.journo.eth",
+    "ensSubname": "shawshank.journo.ens",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler"
+    ],
+    "awards": [
+      "Academy Award Best Picture Nomination",
+      "Academy Award Best Actor Nomination"
+    ],
+    "award": "Academy Nominee",
+    "netflixId": "tt0111161"
+  }
+]
